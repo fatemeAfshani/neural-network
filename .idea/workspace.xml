@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b8f200b-0713-4e38-a156-846ffc5b267b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8b8f200b-0713-4e38-a156-846ffc5b267b" name="Changes" comment="feat: base of the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.code.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -100,12 +90,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763833962035</updated>
-      <workItem from="1763833963081" duration="707000" />
+      <workItem from="1763833963081" duration="1018000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: base of the project">
+      <option name="closed" value="true" />
+      <created>1763834976422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763834976422</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: base of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: base of the project" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
